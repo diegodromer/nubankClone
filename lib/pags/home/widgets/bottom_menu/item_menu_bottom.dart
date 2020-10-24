@@ -21,7 +21,7 @@ class ItemMenuBottom extends StatelessWidget {
               Icon(icon),
               Text(
                 text,
-                style: TextStyle(fontSize: 10), 
+                style: TextStyle(fontSize: 10),
               )
             ],
           ),
